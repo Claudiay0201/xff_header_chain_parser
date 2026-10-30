@@ -1,6 +1,6 @@
 [project]
 name = "xff-header-chain-parser"
-version = "0.1.1"
+version = "0.1.2"
 description = "Extracts client IP addresses from an X-Forwarded-For header in order"
 requires-python = ">=3.10"
 dependencies = []
